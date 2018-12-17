@@ -1,0 +1,100 @@
+<link rel="stylesheet" type="text/css" href="css/main.css">
+*{
+	box-sizing: border-box;
+	
+}
+body{
+	background: url("../img/pressure.jpeg") no-repeat center center black;
+	background-size: 105%;
+	width: 100%;
+}
+
+header {
+	text-align: center;
+	margin: 2% -15px 5% -15px;
+	padding: 2%;
+	border: solid;
+	border-color: blue; 
+	background: url("../img/logo-2.jpg") no-repeat top left black;
+	background-size: 20% auto;
+	font-family: 'Oswald', sans-serif;
+	color: white;
+}
+
+header a {
+	color: white;
+}
+
+header a:hover {
+	color: white;
+}
+
+div.a {
+	border: solid;
+	border-color: blue;
+	background-color: black;
+}
+div.b {
+	border: solid;
+	border-color: blue;
+	background-color: black;]]]
+}
+.box a {
+	color: black;
+}
+.box a:hover {
+	color: blue;
+}
+
+div.text1{
+	text-align: center;
+	margin: 0 4% 0% 0%; 
+	padding: 1%;
+	font-family: 'Oswald', sans-serif;
+	color: white;
+	
+}
+div.text1 img {
+	width: 100%;
+}
+
+div.text1 p {
+	text-align: center;
+	font-family: 'Merriweather', serif;
+	color: white;
+	
+}
+
+div.text2{
+	text-align: center;
+	margin: 5% 6% 5% 0%;
+	padding: 2%; 
+	border: solid;
+	border-color: blue; 
+	background-color: black;
+	font-family: 'Oswald', sans-serif;
+	color: white;
+}
+
+div.text2 p {
+	text-align: left;
+	font-family: 'Merriweather', serif;
+	
+}
+
+div.text15 {
+	text-align: center;
+	margin: 5% 5% 2% 0%; 
+	padding: 2%;
+	border: solid;
+	border-color: darkgrey; 
+	background-color: black;
+	font-family: 'Oswald', sans-serif;
+}
+div.text15 p {
+	text-align: left;
+	font-family: 'Merriweather', serif;
+}
+.background  img {
+	width: 100% auto;
+}
